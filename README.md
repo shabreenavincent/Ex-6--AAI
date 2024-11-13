@@ -1,7 +1,7 @@
 <H3>NAME:Shabreena Vincent</H3>
 <H3>REGISTER NO:212222230141</H3>
 <H3>EX.NO:6</H3>
-<H3>DATE:/H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
 ## AIM:
