@@ -8,15 +8,15 @@
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
  
 ## ALGORITHM:
-### STEP 1:
+STEP 1:
 Import the nltk library.
-### STEP 2:
+STEP 2:
 Download the 'punkt', 'wordnet', and 'averaged_perceptron_tagger' resources.
-### STEP 3:
+STEP 3:
 Accept user input for the text.
-### STEP 4:
+STEP 4:
 Tokenize the input text into words using the word_tokenize function.
-### STEP 5:
+STEP 5:
 Iterate through each word in the tokenized text.
 •	Perform part-of-speech tagging on the tokenized words using nltk.pos_tag.
 •	Print each word along with its corresponding part-of-speech tag.
